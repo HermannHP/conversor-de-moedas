@@ -1,2 +1,24 @@
-# conversor-de-moedas
-Desafio Conversor de Moedas em Java: Integração com ExchangeRate-API, manipulação de JSON com Gson e persistência de dados. Projeto desenvolvido para a Formação Java e Orientado a Objetos (Alura/ONE)
+# 💰 Conversor de Moedas - Challenge Java
+
+Este é um desafio de programação que faz parte da formação **Java Orientado a Objetos** da **Alura** em parceria com o programa **Oracle Next Education (ONE)**. O objetivo é criar um conversor de moedas que solicita taxas de câmbio em tempo real através de uma API.
+
+## 🚀 Funcionalidades
+- Conversão de moedas em tempo real utilizando a [ExchangeRate-API](https://www.exchangerate-api.com/).
+- Menu interativo no console para o usuário.
+- Suporte para as principais moedas:
+  - Dólar (USD) ↔️ Real Brasileiro (BRL)
+  - Dólar (USD) ↔️ Peso Argentino (ARS)
+  - Dólar (USD) ↔️ Peso Colombiano (COP)
+- Tratamento de erros para entradas inválidas ou falhas na rede.
+- **Extra:** Geração de histórico de conversões em um arquivo `.json`.
+
+## 🛠️ Tecnologias Utilizadas
+- **Java 21**: Versão utilizada para o desenvolvimento.
+- **Gson (Google)**: Biblioteca para a conversão de JSON para objetos Java.
+- **HttpClient**: Para realizar as requisições HTTP para a API.
+- **IntelliJ IDEA**: IDE de desenvolvimento.
+
+## 📦 Como rodar o projeto
+1. Clone este repositório:
+   ```bash
+   git clone [https://github.com/SEU_USUARIO/conversor-de-moedas.git](https://github.com/SEU_USUARIO/conversor-de-moedas.git)
