@@ -22,3 +22,4 @@ Este é um desafio de programação que faz parte da formação **Java Orientado
 1. Clone este repositório:
    ```bash
    git clone [https://github.com/SEU_USUARIO/conversor-de-moedas.git](https://github.com/SEU_USUARIO/conversor-de-moedas.git)
+<img width="500" height="500" alt="Badge-Conversor" src="https://github.com/user-attachments/assets/6e8d70a1-f226-4914-9fe9-08501dcd24e0" />
